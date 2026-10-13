@@ -27,10 +27,8 @@ The workflow covers data preparation and validation in Excel, exploratory and bu
 
 ### 1. Excel - Data Preparation and Validation
 
-The workbook contains four sheets:
+The workbook contains:
 
-- `raw_transactions` — review dataset.
-- `clean_transactions` — prepared transaction data.
 - `analyse_transactions` — additional calculated columns and key totals.
 - `pivot` — PivotTable summaries used to cross-check totals against Power BI.
 
