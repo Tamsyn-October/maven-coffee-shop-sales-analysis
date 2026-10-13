@@ -46,8 +46,6 @@ The SQL analysis is organised into seven scripts:
 6. `06_product_analysis.sql` — product performance.
 7. `07_location_analysis.sql` — store-level comparisons.
 
-See the `sql/` folder for the queries.
-
 ### 3. Power BI - Dashboard Development
 
 The dashboard includes:
