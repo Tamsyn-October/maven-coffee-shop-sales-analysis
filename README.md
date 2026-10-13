@@ -85,7 +85,7 @@ This project strengthened my practical understanding of data preparation, SQL-ba
 - `excel/` - workbook used for preparation and validation.
 - `sql/` - SQL scripts.
 - `powerbi/` - Power BI report and dashboard screenshot.
-- `images/` - supporting project screenshots.
+- `media/` - supporting project screenshots.
 
 ## Dataset
 
